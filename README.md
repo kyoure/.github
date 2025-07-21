@@ -7,6 +7,8 @@
         <br>
         i'm lívia (@kyureyumi); a dense programmer and hobbyist linguist. nice to meet ya ^-^
         <br>
+        &nbsp; <code>P = she/her ∪ they/them ∪ it/its</code> •<code>L = (🇧🇷, 🇬🇧, 🇪🇸, 🇩🇪)</code>
+        <br>
         <br>
         i'm into functional programming, C99, and systems programming, and i'm also interested in reverse engineering
         <br>
