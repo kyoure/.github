@@ -26,7 +26,7 @@
         &nbsp;𝕏 ~ <a href="https://twitter.com/kyureyumi">twitter.com/kyureyumi</a>
         <br>
         <br>
-        <sup>if u saw me elsewhere, nah u didn't</sup>
+        <small>if u saw me elsewhere, nah u didn't</small>
       </samp>
     </p>
 </div>
