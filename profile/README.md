@@ -1,5 +1,5 @@
 <div>
-    <img align="left" width="245" src="./poster.png">
+    <img align="left" width="245" src="./profile/poster.png">
     <p>
       <samp>
         hi-ya~
@@ -28,4 +28,5 @@
       </samp>
     </p>
 </div>
+
 
