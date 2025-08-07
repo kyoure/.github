@@ -23,9 +23,7 @@
         <br>
         &nbsp;discord ~ <a href="https://discord.com/users/365482817041334272">@kyureyumi</a>
         <br>
-        &nbsp;bluesky ~ <a href="https://bsky.app/profile/did:plc:ccmxjfnlotusblh6nuzc2cfl">bsky.app/profile/kyu.re</a>
-        <br>
-        &nbsp;𝕏 ~ <a href="https://twitter.com/kyureyumi">twitter.com/kyureyumi</a>
+        &nbsp;bsky ~ <a href="https://bsky.app/profile/did:plc:ccmxjfnlotusblh6nuzc2cfl">bsky.app/profile/kyu.re</a>
         <br>
         <br>
         <sub>if u saw me elsewhere, nah u didn't</sub>
