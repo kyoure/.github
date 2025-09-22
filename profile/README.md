@@ -1,32 +1,33 @@
 <div>
-    <img align="left" width="245" src="./profile/poster.png">
+    <img align="left" width="245" src="https://github.com/kyoure/.github/blob/main/profile/poster.png?raw=true">
     <p>
       <samp>
-        hi-ya~
+        hi — name's lívia eloísa anahí
         <br>
         <br>
-        i'm lívia; a dense programmer and hobbyist linguist. nice to meet ya 👉👈
+        incompetent polyglot and hobbyist linguist, libre software developer.
         <br>
-        &nbsp; <code>P = she/her ∪ they/them ∪ it/its</code> •<code>L = (🇧🇷, 🇬🇧, 🇪🇸, 🇩🇪)</code>
-        <br>
-        <br>
-        i'm into functional programming, C99, and systems programming, and i'm also interested in reverse engineering
+        pronouns are she/her. nice to meet ya
         <br>
         <br>
-        my free time <i>online</i> is spent <s>reinventing the wheel for nothing and breaking stable software</s> experimenting
-        with atypical technologies and building cool stuff with 'em
+        my free time <i>online</i> is spent either:
+        <br>
+        &nbsp;• reinventing the wheel for nothing and breaking stable software;
+        <br>
+        &nbsp;• experimenting with atypical technologies and building cool stuff with 'em
         <br>
         <br>
-        meow. you may find me elsewhere on a few places on the interwebs:
+        you may find me elsewhere on a few places on the interwebs:
         <br>
         &nbsp;website ~ <a href="https://kyu.re">kyu.re</a>
         <br>
         &nbsp;bsky ~ <a href="https://bsky.app/profile/did:plc:ccmxjfnlotusblh6nuzc2cfl">bsky.app/profile/kyu.re</a>
         <br>
         <br>
-        <sub>if u saw me elsewhere, nah u didn't</sub>
+        <sup>if u saw me elsewhere, nope, you did not</sup>
       </samp>
     </p>
 </div>
+
 
 
